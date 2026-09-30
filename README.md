@@ -1,2 +1,2 @@
-# TechnicalLearning-
-个人技术扩展备份
+# TechnicalLearning
+个人学习资料和学习笔记记录
